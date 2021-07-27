@@ -1,0 +1,2 @@
+# WebrootMSEdgeExtension_RemovalTool
+Removes persistent Webroot Edge extension
